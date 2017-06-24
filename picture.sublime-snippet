@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[<picture>
+  <source srcset="img/${1}" media="(min-width: 1200px)">
+  <source srcset="img/${1}" media="(min-width: 768px)">
+  <img src="img/${1}" width="${2}" height="${3}" alt="${4}">
+</picture>]]>
+  </content>
+  <tabTrigger>pict</tabTrigger>
+  <scope>text.html</scope>
+</snippet>
