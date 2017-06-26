@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[<svg class="${1}" width="${2}" height="${3}">
+  <use xlink:href="#${4}" />
+</svg>]]></content>
+  <tabTrigger>svgi</tabTrigger>
+  <scope>text.html</scope>
+</snippet>
